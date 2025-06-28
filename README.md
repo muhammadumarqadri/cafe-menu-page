@@ -36,7 +36,8 @@ git clone https://github.com/yourusername/cafe-menu-page.git
 
 ## 🌐 Live Demo
 
-Coming soon...
+👉 [View the live site here](https://muhammadumarqadri.github.io/cafe-menu-page/)
+
 
 ## 📚 Inspired By
 
